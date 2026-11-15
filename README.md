@@ -1,3 +1,29 @@
+# Shadowbroker
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向全球范围的开源情报平台，可追踪私人飞机、间谍卫星与地震事件等。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <h1 align="center">🛰️ S H A D O W B R O K E R</h1>
   <p align="center"><strong>Global Threat Intercept — Real-Time Geospatial Intelligence Platform</strong></p>
